@@ -1,0 +1,15 @@
+{
+  "name": "Coldemailer",
+  "version": "1.0.0",
+  "description": "Nodejs script to automate cold email to recruiters for finding new job",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saurabh Sanap",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
